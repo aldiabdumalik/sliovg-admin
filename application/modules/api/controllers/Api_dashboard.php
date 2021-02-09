@@ -137,7 +137,7 @@ class Api_dashboard extends RestController {
 	{
 		$filename = './file/uploads/'.$file;
 		$api_url = 'https://content.dropboxapi.com/2/files/upload'; //dropbox api url
-        $token = 'rmp1LdZRb_EAAAAAAAAgRXRiuVZOsdCQb8u8t_LxKdrOXr6m5f-0Wiehmc9aCzL2';
+        $token = 'your_api_key';
 
         $headers = array('Authorization: Bearer '. $token,
             'Content-Type: application/octet-stream',
