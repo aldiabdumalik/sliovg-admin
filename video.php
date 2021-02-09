@@ -1,0 +1,3 @@
+<?php
+header('Content-type: video/mp4');
+readfile('https://dl.dropboxusercontent.com/apitl/1/AblxgwxICbODzBdKHPuYdOGT6nvwzY1sQE2b2XfhlFIXAFULV1WlY2LgFKfGjEaUdoGukW-IJ3VeOwAl7vhOvpUaDsdmLcyhhbWw7CSDIw_c_Dn_bDaZ54zk6c1ZU23kWCjsNRhMvuD5GSFP7noF09n5SUlWU0V4LF-bLPJ12nVGYxoFM-y6KllUb4UP-Nl1GDcYJ0BP6QwXkST9herzJky7SDvNZ61Su11TqA6mQsZV1M6bUZUtmINXWGl8nukCsq6oFfyCTbVzzAc52-2-DyqZ-LemDayTo192RcRTvSJ9nEc6U0e5e6HueRF6xQJdKvMieanyBZ1VdHUDkBWdaEH6auYf8vUDeCDEO0yTuPv7aQ');

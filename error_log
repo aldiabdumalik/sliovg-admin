@@ -1,0 +1,8 @@
+[21-May-2020 21:05:37 Asia/Jakarta] PHP Warning:  Unsupported declare 'strict_types' in /home2/pvproject/sunlife.beyond-client.com/vendor/monolog/monolog/src/Monolog/Logger.php on line 1
+[21-May-2020 21:05:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home2/pvproject/sunlife.beyond-client.com/vendor/monolog/monolog/src/Monolog/Logger.php on line 33
+[05-Jun-2020 11:48:06 Asia/Jakarta] PHP Fatal error:  Class 'MY_Controller' not found in /home2/pvproject/sunlife.beyond-client.com/application/modules/users/controllers/Users.php on line 3
+[22-Jun-2020 11:15:59 Asia/Jakarta] PHP Fatal error:  Class 'chriskacerguis\RestServer\RestController' not found in /home2/pvproject/sunlife.beyond-client.com/application/modules/api/controllers/Api_video.php on line 6
+[22-Jun-2020 11:16:30 Asia/Jakarta] PHP Fatal error:  Class 'chriskacerguis\RestServer\RestController' not found in /home2/pvproject/sunlife.beyond-client.com/application/modules/api/controllers/Api_video.php on line 6
+[23-Jun-2020 11:57:26 Asia/Jakarta] PHP Fatal error:  Interface 'Psr\Http\Message\UriInterface' not found in /home2/pvproject/sunlife.beyond-client.com/vendor/guzzlehttp/psr7/src/Uri.php on line 13
+[30-Jul-2020 17:48:15 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home2/pvproject/sunlife.beyond-client.com/application/modules/api/controllers/Api_dashboard.php on line 45
+[30-Jul-2020 17:48:15 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home2/pvproject/sunlife.beyond-client.com/system/core/Exceptions.php on line 1
